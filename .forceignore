@@ -13,3 +13,6 @@ package.xml
 
 # Do not track profile metadata
 **/profiles/*
+**/tsconfig.json
+
+**/*.ts
