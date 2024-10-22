@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Rental_date_not_available</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rental date not available</shortDescription>
+        <value>This date is not available, please enter another date</value>
+    </labels>
+</CustomLabels>
